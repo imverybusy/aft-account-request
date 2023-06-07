@@ -2,8 +2,8 @@ module "req_accnt_dev01" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
-    AccountEmail = "a01091680906+ctws-aftdev3@gmail.com"
-    AccountName  = "accRqTestHanseo3"
+    AccountEmail = "a01091680906+ctws-aftdev4@gmail.com"
+    AccountName  = "accRqTestHanseo4"
     # Syntax for top-level OU
     ManagedOrganizationalUnit = "ProductionVersion2"
     # Syntax for nested OU
